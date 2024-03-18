@@ -1,0 +1,15 @@
+{
+    "firstName":"Babu",
+    "lastName":"Devandla",
+    "projects":[
+        {
+           "title":"Employee Management System"
+        },
+        {
+            "title":"Content Management System"
+        },
+          {
+            "title":"Admin Management System"
+        }
+    ]
+}
